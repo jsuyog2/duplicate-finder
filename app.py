@@ -28,6 +28,6 @@ while True:
     if event == "Find":
         folder = values["-FOLDER-"]
         ImageDuplicateFinder(folder)
-        VideoDuplicateFinder(folder)
+        # VideoDuplicateFinder(folder)
 
 window.close()
