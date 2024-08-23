@@ -22,24 +22,10 @@ To run the Duplicate Finder application, follow these steps:
     cd duplicate-finder
     ```
 
-2. **Set Up a Virtual Environment (Optional but recommended)**
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. **Install Dependencies**
+2. **Install Dependencies**
 
     ```bash
     pip install -r requirements.txt
-    ```
-
-    Ensure you have the following packages in your `requirements.txt`:
-
-    ```
-    PySimpleGUI
-    difPy
     ```
 
 ## Usage
