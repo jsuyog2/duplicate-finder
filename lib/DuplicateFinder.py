@@ -1,4 +1,5 @@
 """
+DuplicateFinder.py
 A module that helps to detetc duplicate videos in a folder.
 Supports mp4, mov, webm. More formats may be included in the future.
 Supports recursive search in a folder.
